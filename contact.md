@@ -10,7 +10,7 @@ Tel: 0043 677 / 62502262
 E-Mail: iveta@i-cafe.at
 
 ## Öffnungszeiten
-Montag-Freitag, 6:00 - 16:00
+Montag-Freitag: 6:00 - 16:00
 Samstag-Sonntag: Geschlossen
 
 ## Adresse
