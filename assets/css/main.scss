@@ -28,3 +28,10 @@ body {
   font-size: 180% !important;
   color:#fff;
 }
+
+
+@media screen and (max-width: 800px) {
+    .site-nav .page-link {
+        color: black;
+    }
+}
