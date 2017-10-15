@@ -1,14 +1,16 @@
-title: i-café.at
+title: I-Café.at
 email: iveta@i-cafe.at
-description: >
-  Write an awesome description for your new site here. You can edit this line in
-  _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+description: Ein kleines Steh-Café in der Näher von Salzburg. Kaffee, Kuchen, Frühstück, Jause. Alles lecker! Und vegan freundlich!
 baseurl: ''
 url: ''
 twitter_username: jekyllrb
 github_username: jekyll
+instagram_username: i_cafe_at
+facebook_username: I-Café-713785282160566
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+    sass_dir: _sass
+    style: compressed

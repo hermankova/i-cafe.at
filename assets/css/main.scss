@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #44C3E6;
+}
+
+.page-content {
+  background-color: #fff;
+}
+
+.site-header, .site-footer {
+  font-family: 'Cookie';
+  font-size: 160%;
+}
+
+.footer-col-wrapper {
+  font-size: 100%;
+}
+
+.site-header, .site-footer, .site-nav .page-link, .footer-col-wrapper, .site-footer a {
+  color:#fff;
+}
+
+.site-title, .site-title:visited {
+  font-size: 180% !important;
+  color:#fff;
+}
