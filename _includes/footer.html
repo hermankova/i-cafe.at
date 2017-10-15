@@ -11,6 +11,12 @@
             {% if site.phone %}
               <li><a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
             {% endif %}
+            {% if site.opening_time %}
+              <li>{{ site.opening_time }}</li>
+            {% endif %}
+            {% if site.address %}
+               <li><a href="/contact">{{ site.address }}</a></li>
+            {% endif %}
         </ul>
       </div>
 
