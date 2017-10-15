@@ -1,7 +1,10 @@
 ---
+title: Über uns
 layout: page
-title: About
-permalink: /about/
+permalink: "/about/"
 ---
 
-Ein kleines Steh-Café in der Näher von Salzburg. Kaffee, Kuchen, Frühstück, Jause. Alles lecker! Und vegan freundlich!
+Ein kleines Steh-Café in der Nähe von Salzburg. Kaffee, Kuchen, Frühstück, Jause. Alles lecker! Und vegan freundlich!
+
+### Warum I-Café?
+Weil ich Iveta heisse :-)

@@ -4,17 +4,18 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #44C3E6;
+    background-color: #fff;
 }
 
-.page-content {
-  background-color: #fff;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cookie';
 }
 
 .site-header, .site-footer {
   font-family: 'Cookie';
   font-size: 160%;
   border:5px solid #fff;
+  background-color: #44C3E6;
 }
 
 .footer-col-wrapper {
