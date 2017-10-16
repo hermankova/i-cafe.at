@@ -15,7 +15,7 @@ Montag-Freitag: 6:00 - 16:00
 Samstag-Sonntag: Geschlossen
 
 ## Adresse
-Hauptstraße 32,  
+Hauptstraße 32  
 5082 Grödig  
 Österreich
 
