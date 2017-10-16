@@ -4,17 +4,13 @@
 
 <div id="mapid"></div>
 
-<link rel="stylesheet" href="/assets/css/leaflet.css"
-      integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
-      crossorigin=""/>
+<link rel="stylesheet" href="/assets/css/leaflet.css" />
 
-<script src="/assets/js/leaflet.js"
-        integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
-        crossorigin=""></script>
+<script src="/assets/js/leaflet.js"></script>
 
 <script>
     var mymap = L.map('mapid').setView([47.73876,13.03652], 19);
-    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
         maxZoom: 19
     }).addTo(mymap);
