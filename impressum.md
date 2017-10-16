@@ -6,7 +6,7 @@ order: 4
 
 I-Café  
 Iveta Hermankova  
-Hauptstrasse 32,  
+Hauptstrasse 32  
 5082 Grödig
  
 Tel: 0043 677 / 62502262  
