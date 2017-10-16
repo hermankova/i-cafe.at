@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 layout: page
+order: 3
 ---
 
 I-Café  
