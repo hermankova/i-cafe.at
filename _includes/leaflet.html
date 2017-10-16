@@ -1,0 +1,25 @@
+<style>
+    #mapid { height: 380px; }
+</style>
+
+<div id="mapid"></div>
+
+<link rel="stylesheet" href="/assets/css/leaflet.css"
+      integrity="sha512-M2wvCLH6DSRazYeZRIm1JnYyh22purTM+FDB5CsyxtQJYeKq83arPe5wgbNmcFXGqiSH2XR8dT/fJISVA1r/zQ=="
+      crossorigin=""/>
+
+<script src="/assets/js/leaflet.js"
+        integrity="sha512-lInM/apFSqyy1o6s89K4iQUKg6ppXEgsVxT35HbzUupEVRh2Eu9Wdl4tHj7dZO0s1uvplcYGmt3498TtHq+log=="
+        crossorigin=""></script>
+
+<script>
+    var mymap = L.map('mapid').setView([47.73876,13.03652], 19);
+    L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+        maxZoom: 19
+    }).addTo(mymap);
+
+    var marker = L.marker([47.73877,13.03652]).addTo(mymap);
+    marker.bindPopup("<b>I-Café</b><br>Hauptstraße 32, Grödig.");
+
+</script>
