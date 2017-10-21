@@ -15,4 +15,4 @@ Alle unsere Speisen sind vegetarisch, natürlich haben wir auch viele vegane Opt
 * Soja oder Hafer Milch zum Kaffee
 
 ## HappyCow
-Wir sind auf [HappyCow.com](https://www.happycow.net/reviews/i-cafe-grodig-103228). Bewerten Sie uns bitte :-) 
+Wir sind auf [HappyCow.net](https://www.happycow.net/reviews/i-cafe-grodig-103228). Bewerten Sie uns bitte :-) 
