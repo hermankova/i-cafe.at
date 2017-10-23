@@ -2,6 +2,7 @@
 title: Veg-Friendly
 layout: page
 order: 2
+lang: de
 ---
 
 Alle unsere Speisen sind vegetarisch, natürlich haben wir auch viele vegane Optionen. Fragen Sie einfach ;-)

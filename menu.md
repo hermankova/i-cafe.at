@@ -2,6 +2,7 @@
 title: Speisekarte
 layout: page
 order: 3
+lang: de
 ---
 
 Alle Speisen sind vegetarisch und können auch als vegane vorbereitet werden.

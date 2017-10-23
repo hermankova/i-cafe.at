@@ -2,6 +2,7 @@
 title: Kontakt
 layout: page
 order: 4
+lang: de
 ---
 
 I-Café  

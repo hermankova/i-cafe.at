@@ -1,6 +1,7 @@
 ---
 layout: home
 permalink: "/"
+lang: de
 ---
 
 ## Ein neues Steh-Café in Grödig. Kaffee, Kuchen, Frühstück, Jause. Alles lecker! Und vegan freundlich!
