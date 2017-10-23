@@ -1,7 +1,6 @@
 ---
 title: Impressum
 layout: page
-order: 5
 lang: de
 ---
 
