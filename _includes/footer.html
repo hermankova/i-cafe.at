@@ -1,48 +1,49 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.email %}
-              <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-            {% if site.phone %}
-              <li><a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
-            {% endif %}
-            {% if site.opening_time %}
-              <li>{{ site.opening_time }}</li>
-            {% endif %}
-            {% if site.address %}
-               <li><a href="/kontakt">{{ site.address }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
+    <div class="wrapper">
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <ul class="contact-list">
+                    {% if site.email %}
+                    <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    {% endif %}
+                    {% if site.phone %}
+                    <li><a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
+                    {% endif %}
+                    {% if site.opening_time %}
+                    <li>{{ site.opening_time }}</li>
+                    {% endif %}
+                    {% if site.address %}
+                    <li><a href="/kontakt">{{ site.address }}</a></li>
+                    {% endif %}
+                </ul>
+            </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-         {% if site.instagram_username %}
-          <li>
-            <a href="https://instagram.com/{{ site.instagram_username }}/"><i class="fa fa-instagram"></i> <span class="username">{{ site.instagram_username }}</span></a>
-          </li>
-          {% endif %}
-          {% if site.facebook_username %}
-           <li>
-             <a href="https://www.facebook.com/{{ site.facebook_username }}/"><i class="fa fa-facebook-square"></i> <span class="username">i-café.at</span></a>
-           </li>
-           {% endif %}
-            <li>
-            <a href="/impressum">Impressum</a>
-            </li>
-        </ul>
-      </div>
+            <div class="footer-col footer-col-2">
+                <ul class="social-media-list">
+                    {% if site.instagram_username %}
+                    <li>
+                        <a href="https://instagram.com/{{ site.instagram_username }}/"><i class="fa fa-instagram"></i>
+                            <span class="username">{{ site.instagram_username }}</span></a>
+                    </li>
+                    {% endif %}
+                    {% if site.facebook_username %}
+                    <li>
+                        <a href="https://www.facebook.com/{{ site.facebook_username }}/"><i
+                                class="fa fa-facebook-square"></i> <span class="username">i-café.at</span></a>
+                    </li>
+                    {% endif %}
+                    <li>
+                        <a href="/impressum">Impressum</a>
+                    </li>
+                </ul>
+            </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
+            <div class="footer-col footer-col-3">
+                <p>{{ site.description | escape }}</p>
+            </div>
+        </div>
+
     </div>
-
-  </div>
 
 </footer>

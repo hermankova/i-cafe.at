@@ -21,7 +21,7 @@ table td {
 }
 
 .post-content {
-  color: #2a2a2a;
+  color: #454545;
 
   p {
     text-align:justify;
@@ -47,6 +47,14 @@ table td {
 .site-title, .site-title:visited {
   font-size: 180% !important;
   color:#fff;
+}
+
+.social-media-list a:hover {
+  text-decoration:underline;
+}
+
+.social-media-list a:hover .username {
+  text-decoration:none;
 }
 
 
