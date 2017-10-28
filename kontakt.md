@@ -18,6 +18,7 @@ Samstag-Sonntag: Geschlossen
 ## Adresse
 Hauptstraße 32  
 5082 Grödig  
+Salzburg  
 Österreich
 
 {% include leaflet.html %}
