@@ -9,6 +9,7 @@ html, body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cookie';
+  color: #111;
 }
 
 table {
@@ -19,12 +20,17 @@ table td {
   padding-right:10px;
 }
 
-.post-content p {
-  text-align:justify;
+.post-content {
+  color: #2a2a2a;
+
+  p {
+    text-align:justify;
+  }
 }
 
 .site-header, .site-footer {
   font-family: 'Cookie';
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.20);
   font-size: 160%;
   border:5px solid #fff;
   background-color: #45A0DD;
