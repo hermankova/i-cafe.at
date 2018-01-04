@@ -12,7 +12,7 @@ Tel: 0043 677 / 62502262
 E-Mail: <a href="mailto:iveta@i-cafe.at">iveta@i-cafe.at</a>
 
 ## Öffnungszeiten
-Montag-Freitag: 6:00 - 16:00  
+Montag-Freitag: 8:00 - 17:00  
 Samstag-Sonntag: Geschlossen
 
 ## Adresse
