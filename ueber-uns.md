@@ -11,7 +11,7 @@ Sie können alle Leckereien gerade in dem Café genießen oder einfach mitnehmen
 
 ## Öffnungszeiten
 
-Mo-Fr 6:00-16:00
+{{ site.opening_time }}
 
 ## Warum I-Café?
 Weil ich **Iveta** heiße :-)

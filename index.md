@@ -9,7 +9,7 @@ lang: de
 -------------
   
 	
-❄ Frohe Weihnachten und guten Rutsch ins neue Jahr! Wir sehen uns wieder **ab 2. Jänner** mit neuen Öffnungszeiten.  **Montag bis Freitag, 8 - 17 Uhr**.  ❄
+❄ **Ab 2. Jänner** neue Öffnungszeiten:  **Montag bis Freitag, 8 - 17 Uhr**.  ❄
 
 -------------
   
