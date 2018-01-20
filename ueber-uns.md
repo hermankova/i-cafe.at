@@ -15,3 +15,5 @@ Sie können alle Leckereien gerade in dem Café genießen oder einfach mitnehmen
 
 ## Warum I-Café?
 Weil ich **Iveta** heiße :-)
+
+![das Interieur](assets/images/inside.jpg)

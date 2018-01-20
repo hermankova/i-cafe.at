@@ -12,3 +12,5 @@ You can enjoy your meal directly in our café or let it prepare to go, so you ca
 
 ## Opening times
 {{ site.opening_time }}
+
+![interior](assets/images/inside.jpg)
