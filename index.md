@@ -4,12 +4,12 @@ permalink: "/"
 lang: de
 ---
 
-## Ein neues Steh-Café in Grödig. Kaffee, Kuchen, Frühstück, Jause. Alles lecker! Und vegan freundlich!
+## Ein neues Café in Grödig. Kaffee, Kuchen, Frühstück, Jause. Alles lecker! Und vegan freundlich!
 
 -------------
   
 	
-❄ **Ab 2. Jänner** neue Öffnungszeiten:  **Montag bis Freitag, 8 - 17 Uhr**.  ❄
+Bald kommen die so beliebte Feier- und damit verbundene Fenstertage. I-Café liebt sie auch, also bleibt ab und zu geschlossen. Und zwar am: 30.4. & 1.5., 10. & 11.5., 21.5., 31.5. & 1.6.  Sonst wie gewöhnlich von Montag bis Freitag von 8.00 bis 17.00 Uhr.
 
 -------------
   
