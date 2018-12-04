@@ -77,6 +77,10 @@ table td {
     }
 }
 
+.home {
+  text-align: center;
+}
+
 #instafeed {
   text-align:center;
 }
@@ -110,3 +114,16 @@ table td {
   background: url('data:image/svg+xml;utf8,<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke="white" fill="white" d="M22.676 0H1.324C.593 0 0 .593 0 1.324v21.352C0 23.408.593 24 1.324 24h11.494v-9.294H9.689v-3.621h3.129V8.41c0-3.099 1.894-4.785 4.659-4.785 1.325 0 2.464.097 2.796.141v3.24h-1.921c-1.5 0-1.792.721-1.792 1.771v2.311h3.584l-.465 3.63H16.56V24h6.115c.733 0 1.325-.592 1.325-1.324V1.324C24 .593 23.408 0 22.676 0"/></svg>');
 }
 
+.speech-bubble { position: relative; background: #45a0dd; border-radius: .4em; } .speech-bubble:after { content: ''; position: absolute; bottom: 0; left: 10%; width: 0; height: 0; border: 23px solid transparent; border-top-color: #45a0dd; border-bottom: 0; border-right: 0; margin-left: -11.5px; margin-bottom: -23px; }
+
+.speech-bubble {
+  padding: 10px;
+  color:#fff;
+}
+
+#instagram > p {
+  font-size: 80%;
+  text-align: right;
+  padding-right: 5px;
+  color: #111;
+}
