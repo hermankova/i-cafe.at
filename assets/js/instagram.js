@@ -34,10 +34,10 @@ var renderBubble = function(data) {
     var dateEl = document.createElement("p");
     dateEl.innerText = '✔️' + getImageDate(item.created_time);
     parentNode.insertBefore(dateEl, feedNode);
-}
+};
 
 var customCaptionFilter = function(image) {
-    image.customCaption = getImageCaption(image.caption.text);
+    image.customCaption = image.caption ? getImageCaption(image.caption.text) : '';
     return true;
 };
 
