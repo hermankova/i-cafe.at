@@ -87,6 +87,10 @@ table td {
 
 #instafeed img {
   margin:3px;
+  width: 200px;
+  object-fit: cover;
+  height: 200px;
+  border: 1px solid gray;
 }
 
 #mapid {
