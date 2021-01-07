@@ -43,7 +43,7 @@ var feed = new Instafeed({
     accessToken: InstagramToken,
     limit: 12,
     filter: customCaptionFilter,
-    template: '<a href="{{link}}"><img src="{{image}}" title="{{model.customCaption}}" /></a>',
+    template: '<a href="{{link}}"><img src="{{image}}" title="{{customCaption}}" /></a>',
     success: renderBubble
 });
 feed.run();
