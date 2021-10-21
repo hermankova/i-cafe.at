@@ -6,7 +6,7 @@ lang: de
 ---
 
 I-Café  
-Iveta Hermankova  
+Iveta Dvorak  
  
 Tel: 0043 677 / 62502262  
 E-Mail: <a href="mailto:iveta@i-cafe.at">iveta@i-cafe.at</a>
