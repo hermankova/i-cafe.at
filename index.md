@@ -4,7 +4,7 @@ permalink: "/"
 lang: de
 ---
 
-## Ein neues Café in Grödig. Kaffee, Kuchen, Frühstück, Jause. Alles lecker! Und vegan freundlich!
+Ab 17. Februar 2022 geschlossen. Es waren wunderbare vier Jahre, danke!
 
 <div id="instagram">
     <div id="instafeed"></div>
